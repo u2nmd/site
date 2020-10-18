@@ -19,6 +19,7 @@ tags:
 
 Άσκηση: Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών. Παραδείγματα φίλτρων βρίσκονται ως σχόλια στην ενότητα με τον CSS κώδικα του παραδείγματος.
 
+
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="u2nmd" data-slug-hash="ZEOOpzM" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ZEOOpzM">
   <span>See the Pen <a href="https://codepen.io/u2nmd/pen/ZEOOpzM">
   ZEOOpzM</a> by Ιάκωβος-Ιάσων Τούντας Π2019034 (<a href="https://codepen.io/u2nmd">@u2nmd</a>)
