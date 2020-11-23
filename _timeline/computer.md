@@ -35,4 +35,6 @@ events:
   - digital-desk
   - mobile
   - apple-smartwatch
+  - printer2020
+  - firstprinter
 ---
